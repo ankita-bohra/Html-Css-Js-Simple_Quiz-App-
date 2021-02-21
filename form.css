@@ -1,0 +1,63 @@
+h1{
+    color: aqua;
+    border: solid;
+    background-color: rgba(145, 37, 139, 0.801);
+    padding: 25px;
+    animation-duration: 9s;
+    animation-play-state: running;
+    font: outline;
+    margin-right: 480px;
+    margin-left: 350px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 25px;
+}
+body{
+    background: rgba(114, 178, 182, 0.842);
+}
+label{
+    padding: 8px;
+    background-color: rgba(35, 63, 187, 0.774);
+    columns: 5;
+    column-gap: 13px;
+    border-color: rgb(206, 18, 196);
+    border-width: 3px;
+    color: seashell;
+}
+input{
+    padding: 4px;
+}
+p{
+    color: light;
+}
+
+.completed{
+background: rgb(78, 175, 120);
+}
+*{
+    border: solid;
+    padding: 20px;
+    border-color: teal;
+}
+form{
+    padding: 40px;
+    background-color: rgba(139, 216, 238, 0.418);
+    
+}
+button{
+    padding: 20px;
+   background-color: rgba(145, 37, 139, 0.801);
+   color: aqua;
+   animation-direction: alternate-reverse;
+   border-radius: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: aqua;
+    font-size: larger;
+}
+select{
+    padding: 4px;
+}
+lable{
+    padding: 4px;
+    background-color: white;
+    color: black;
+}
