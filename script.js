@@ -112,5 +112,14 @@ const questions = [
            { text: '121', correct: true},
            { text: '12', correct: false}
         ]
+    },
+    {
+        question: 'What is 17*17?',
+        answers: [
+           { text: '4', correct: false },
+           { text: '289', correct: true },
+           { text: '121', correct: false},
+           { text: '12', correct: false}
+        ]
     }
 ]
